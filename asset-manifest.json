@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/DemazaZobel/roharoads-react.git/static/css/main.14e23cbe.css",
-    "main.js": "/DemazaZobel/roharoads-react.git/static/js/main.ce09cce0.js",
-    "static/media/IMG_0790.JPG": "/DemazaZobel/roharoads-react.git/static/media/IMG_0790.859c54e17677390a48ed.JPG",
-    "static/media/station.jpg": "/DemazaZobel/roharoads-react.git/static/media/station.248a059a16e7cfd85ed1.jpg",
-    "static/media/IMG_0784.JPG": "/DemazaZobel/roharoads-react.git/static/media/IMG_0784.cb6d633bbd2916fbd787.JPG",
-    "static/media/lane.jpg": "/DemazaZobel/roharoads-react.git/static/media/lane.e09693f9d8193f205f34.jpg",
-    "static/media/gov.jpg": "/DemazaZobel/roharoads-react.git/static/media/gov.e92990688cc22c87d714.jpg",
-    "static/media/nav.JPG": "/DemazaZobel/roharoads-react.git/static/media/nav.455f2a6da126f634aade.JPG",
-    "index.html": "/DemazaZobel/roharoads-react.git/index.html",
-    "main.14e23cbe.css.map": "/DemazaZobel/roharoads-react.git/static/css/main.14e23cbe.css.map",
-    "main.ce09cce0.js.map": "/DemazaZobel/roharoads-react.git/static/js/main.ce09cce0.js.map"
+    "main.css": "/roharoads-react/static/css/main.14e23cbe.css",
+    "main.js": "/roharoads-react/static/js/main.24e61e92.js",
+    "static/media/IMG_0790.JPG": "/roharoads-react/static/media/IMG_0790.859c54e17677390a48ed.JPG",
+    "static/media/station.jpg": "/roharoads-react/static/media/station.248a059a16e7cfd85ed1.jpg",
+    "static/media/IMG_0784.JPG": "/roharoads-react/static/media/IMG_0784.cb6d633bbd2916fbd787.JPG",
+    "static/media/lane.jpg": "/roharoads-react/static/media/lane.e09693f9d8193f205f34.jpg",
+    "static/media/gov.jpg": "/roharoads-react/static/media/gov.e92990688cc22c87d714.jpg",
+    "static/media/nav.JPG": "/roharoads-react/static/media/nav.455f2a6da126f634aade.JPG",
+    "index.html": "/roharoads-react/index.html",
+    "main.14e23cbe.css.map": "/roharoads-react/static/css/main.14e23cbe.css.map",
+    "main.24e61e92.js.map": "/roharoads-react/static/js/main.24e61e92.js.map"
   },
   "entrypoints": [
     "static/css/main.14e23cbe.css",
-    "static/js/main.ce09cce0.js"
+    "static/js/main.24e61e92.js"
   ]
 }
